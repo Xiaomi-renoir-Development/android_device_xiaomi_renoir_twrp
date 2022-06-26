@@ -18,7 +18,7 @@ on:
       LIBRARY_BRANCH:
         description: 'LIBRARY_BRANCH'
         required: true
-        default: 'twrp-11'
+        default: 'twrp-12.1'
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
@@ -26,7 +26,7 @@ on:
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
-        default: 'twrp-11'
+        default: 'twrp-12.1'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
@@ -38,7 +38,7 @@ on:
       KERNEL_BRANCH:
         description: 'KERNEL_BRANCH'
         required: true
-        default: 'twrp-11'
+        default: 'twrp-12.1'
       KERNEL_PATH:
         description: 'KERNEL_PATH'
         required: true
