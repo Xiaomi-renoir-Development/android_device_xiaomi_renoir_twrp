@@ -6,7 +6,7 @@ GPU     | Adreno 642
 Variants| Wi-Fi / 4G / 5G
 Memory  | 6 GB / 8GB
 Storage | 128GB / 256GB
-OS      | Android 11
+OS      | Android 12
 Battery | 4250 mAh (non-removable)
 Display |  6.55" (2400 x 1080 px) AMOLED FHD+
 Release Date | 2021, February
