@@ -3,7 +3,7 @@ Basic   | Specs
 -------:|:-------------------------
 CPU     | Qualcomm Snapdragon 780G (sm7350) (5nm)
 GPU     | Adreno 642
-Variants| Wi-Fi
+Variants| Wi-Fi / 4G / 5G
 Memory  | 6 GB / 8GB
 Storage | 128GB / 256GB
 OS      | Android 11
